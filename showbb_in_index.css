@@ -31,9 +31,9 @@
   #bbTimeList{
     background: var(--card-bg);
     color: var(--font-color);
-    margin-top: 20rem;
+    margin-top: 0rem;
     padding: 0.6rem 1rem 0.5rem 1rem;
-    border-radius: 30px;
+    border-radius: 12px;
     cursor: pointer;
     box-shadow: var(--card-box-shadow);
     display: flex;
